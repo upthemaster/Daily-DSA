@@ -1,5 +1,5 @@
 public class LinearSearch {
-    public static int liSearch (int []nums, int key){
+    public static int liSearch (int []nums, int key) {
         
         for(int i=0; i<nums.length;i++){
             if(nums[i] == key){
