@@ -14,6 +14,7 @@ public class PairsInArray {
     public static void main(String[] args) {
         int []nums = {2,4,6,8,10};
         printPairs(nums);
+        
     }
     
 }
