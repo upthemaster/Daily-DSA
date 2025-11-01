@@ -5,15 +5,15 @@ public class BinarySearch {
         while(start<= end){
             int mid = (start+end)/2;
 
-            if(nums[mid]==key){
+            if(nums[mid]==key) {
                 return mid;
             }
-            else{
+            else {
                 if (nums[mid]<key) {
                     start = mid+1;
                     
                 }
-                else{
+                else {
                     end = mid-1;
                 }
             }
