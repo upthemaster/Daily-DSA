@@ -1,5 +1,5 @@
 public class SubArrayBrute {
-    public static void MaxSubArrayAum(int []nums){
+    public static void MaxSubArrayAum(int []nums) {
         int totalsub = 0;
         for (int i = 0; i<nums.length;i++){
             int start = i;
