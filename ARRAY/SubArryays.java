@@ -7,6 +7,7 @@ public class SubArryays {
                 int end = j;
                 for(int k = start; k<=end;k++){
                     System.out.print(nums[k]+" ");
+                    
                 }
                 totalsub++;
                 System.out.println();
