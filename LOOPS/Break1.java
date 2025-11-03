@@ -4,6 +4,7 @@ public class Break1 {
             if(i == 3){
                 break;
             }
+            
             System.out.println(i);
         }
         System.out.println("I'm out of loop");
