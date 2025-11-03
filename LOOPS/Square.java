@@ -4,7 +4,7 @@ public class Square {
         //     System.out.println("****");
         // }
         int i = 1;
-        while(i<=4){
+        while(i<=4 ){
             System.out.println("****");
             i++;
         }
