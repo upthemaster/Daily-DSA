@@ -9,8 +9,9 @@ public class Break2 {
             if(n % 10 == 0){
                 break;
             }
+            
             System.out.println(n);
-        } while (true);
+        }  while (true);
     }
     
 }
