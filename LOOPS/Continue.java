@@ -10,10 +10,10 @@ public class Continue{
         //     n++;
            
         // }
-        for(int n=1;n<=5;n++){
+        for(int n=1;n<=5;n++) {
             if(n==3){
+                
                 continue;
-
             }
             System.out.println(n);
         }
