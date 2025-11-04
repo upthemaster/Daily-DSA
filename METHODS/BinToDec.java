@@ -10,7 +10,6 @@ public class BinToDec {
             pow++;
             binNum /= 10;
         }
-
         System.out.println("Decimal of "+ myNum +" is: " + decNum);
     }
     public static void main(String[] args) {
