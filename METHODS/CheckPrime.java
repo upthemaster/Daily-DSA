@@ -1,6 +1,5 @@
 public class CheckPrime {
     // OPTIMIZED SOLUTION
-
     public static boolean isPrime(int n){
         if (n == 2){
             return true;
@@ -16,8 +15,7 @@ public class CheckPrime {
     }
 
     //PrimesInRange
-
-    public static void primesInRange(int n){
+     public static void primesInRange(int n){
         for(int i=2;i <= n; i++){
             if(isPrime(i)){
                 System.out.print("  "+i);
