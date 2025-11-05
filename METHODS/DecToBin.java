@@ -9,6 +9,7 @@ public class DecToBin {
             pow++;
             n = n/2;
         }
+        
         System.out.println("Binary of "+ myNum +" is: " + binNum);
     }
     
