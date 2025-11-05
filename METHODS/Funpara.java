@@ -11,6 +11,7 @@ public class Funpara {
         int c = sc.nextInt();
         int d = sc.nextInt();
         withparameter(c,d);
+        
     }
     
     
