@@ -6,6 +6,7 @@ public class Numbers {
         System.out.print("Enter No. of Lines: ");
         int n = sc.nextInt();
 
+        
         for(int i = 1; i<=n;i++){
             for(int num=1;num<=i;num++){
                 System.out.print(num);
