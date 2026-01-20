@@ -1,0 +1,30 @@
+// Approach I - Using Brute Force 
+
+public  class MaxSubArray_I {
+    public static void printSub(int []nums){
+        int maxSum = Integer.MIN_VALUE;
+
+        for (int i = 0; i < nums.length; i++){
+            int start = i;
+            for(int j = i; j < nums.length; j++){
+                int end = j;
+                int currSum = 0;
+                for(int k = start; k <= end; k++){
+                    currSum += nums[k]; // print Subarray sum
+                }
+                System.out.println(currSum);
+                if (maxSum < currSum){
+                    maxSum = currSum;
+                }
+            }
+            System.out.println();
+        }
+        System.out.println("Max Sum : " + maxSum);
+    }
+    public static void main(String[] args) {
+        int []nums = {1,-2,6,-1,3};
+        printSub(nums);
+        
+    }
+
+}
