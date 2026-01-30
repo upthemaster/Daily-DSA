@@ -1,0 +1,31 @@
+public class FindOccurence{
+    public static int strStr(String haystack, String needle){
+        int m = needle.length();
+        int n = haystack.length();
+
+        if(m > n){ // if length of needle is greater than haystack,return -1.
+            return -1;
+        }
+
+        for(int i = 0; i <= n-m; i++){ // we have to iterate outer loop from 0 to 6 for the given haystack
+            int j = 0; // this iterator used for the checking the char from the needle and haystack
+            while(j<m && haystack.charAt(i+j)==needle.charAt(j)){
+                j++; // if condn true, then increase j index and check for the another char 
+            }
+            if(j==m){ // after increasing index for j multple times, at particular time the needle index is equal to the length of needle
+                return i; // after condn satisfies, return the starting index(outer loop iterator) from haystack
+            }
+        }
+        return -1; // if  all cond unsatisfies then return -1.
+    }
+
+  public static void main(String []args){
+    String haystack = "sadbutsad";
+    String needle = "sad";
+    
+    int result = strStr(haystack, needle);
+    System.out.println(result);
+
+  }
+
+}
