@@ -1,0 +1,22 @@
+class Solution {
+    public double myPow(double x, int n) {
+        long pow = n; //widening conversion to avoid data overflow
+        if(pow < 0){ // if condn is used to convert the -ve power into +ve
+            x = 1/x;
+            pow = -pow;
+        }
+        double result = 1.0; // double datatype is used for handle the large values with decimals
+        // we use while loop when the no of steps to find soln are unknown 
+        // when the condn get false then loop stops
+        while(pow>0){ // checks pow > 0
+            if(pow % 2 == 1){ // checks pow is odd or not
+                result *= x;
+
+            }
+            x *= x;
+            pow /= 2;
+        }
+        return result; // returns the result
+        
+    }
+}
