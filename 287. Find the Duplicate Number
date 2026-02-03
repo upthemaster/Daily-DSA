@@ -1,0 +1,21 @@
+class Solution{
+    public static int findDuplicate(int []nums){
+        int slow = nums[0];
+        int fast = nums[0];
+        // Cycle Detection
+
+        do{ // at least one iteration is required to check the position of pointers
+            slow = nums[slow];
+            fast = nums[nums[fast]];
+        }while(slow != fast); // after 1st iteration , this condn get checcked then the loop runs until the condition got false
+
+        // Cycle Entry
+
+        slow = nums[0]; // reset the pointer at the start
+        while(slow != fast){ // move both pointer one step at a time
+            slow = nums[slow];
+            fast = nums[fast];
+        }
+        return slow; // fast is assigned to the slow then the slow value get returned
+    }
+}
