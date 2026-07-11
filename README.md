@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/upthemaster/Daily-DSA/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/upthemaster/Daily-DSA/tree/master/0904-fruit-into-baskets) |
 | [1250-check-if-it-is-a-good-array](https://github.com/upthemaster/Daily-DSA/tree/master/1250-check-if-it-is-a-good-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/upthemaster/Daily-DSA/tree/master/3477-fruits-into-baskets-ii) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/upthemaster/Daily-DSA/tree/master/0076-minimum-window-substring) |
+| [0268-missing-number](https://github.com/upthemaster/Daily-DSA/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/upthemaster/Daily-DSA/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
 |  |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/upthemaster/Daily-DSA/tree/master/0268-missing-number) |
 | [1250-check-if-it-is-a-good-array](https://github.com/upthemaster/Daily-DSA/tree/master/1250-check-if-it-is-a-good-array) |
 ## Number Theory
 |  |
@@ -32,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/upthemaster/Daily-DSA/tree/master/0268-missing-number) |
 | [3477-fruits-into-baskets-ii](https://github.com/upthemaster/Daily-DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
@@ -45,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/upthemaster/Daily-DSA/tree/master/3477-fruits-into-baskets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/upthemaster/Daily-DSA/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/upthemaster/Daily-DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
