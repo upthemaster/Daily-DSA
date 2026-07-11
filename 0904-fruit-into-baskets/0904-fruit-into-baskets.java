@@ -1,31 +1,29 @@
 class Solution { // exact problem like longest substring with k uniques
     //Approach -> Sliding Window Time : O(n) Space : O(1)
     public int totalFruit(int[] fruits) {
-        int[] frequency = new int[1000001]; // Hashmap should better approach
+        int []freq = new int[1000001];
         int left = 0;
         int distinct = 0;
-        int maxLength = -1;
+        int maxLen = -1;
 
-        for (int right = 0; right < fruits.length; right++) {
-
-            int incoming = fruits[right];
-            
-            if (frequency[incoming] == 0) {
+        for(int right = 0; right < fruits.length; right++){
+            int in = fruits[right];
+            if(freq[in] == 0){
                 distinct++;
             }
-            frequency[incoming]++;
+            freq[in]++;
 
-            while (distinct > 2) {
-                int outgoing = fruits[left];
-                frequency[outgoing]--;
+            while(distinct > 2){
+                int out = fruits[left];
+                freq[out]--;
 
-                if (frequency[outgoing] == 0) {
+                if(freq[out] == 0){
                     distinct--;
                 }
                 left++;
             }
-            maxLength = Math.max(maxLength, right - left + 1);
+            maxLen = Math.max(maxLen, right - left + 1);
         }
-        return maxLength;       
+        return maxLen;
     }
 }
