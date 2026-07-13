@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/upthemaster/Daily-DSA/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/upthemaster/Daily-DSA/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/upthemaster/Daily-DSA/tree/master/0904-fruit-into-baskets) |
 | [1250-check-if-it-is-a-good-array](https://github.com/upthemaster/Daily-DSA/tree/master/1250-check-if-it-is-a-good-array) |
@@ -56,5 +57,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/upthemaster/Daily-DSA/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/upthemaster/Daily-DSA/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/upthemaster/Daily-DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
