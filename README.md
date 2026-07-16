@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/upthemaster/Daily-DSA/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/upthemaster/Daily-DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/upthemaster/Daily-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0904-fruit-into-baskets](https://github.com/upthemaster/Daily-DSA/tree/master/0904-fruit-into-baskets) |
 | [1250-check-if-it-is-a-good-array](https://github.com/upthemaster/Daily-DSA/tree/master/1250-check-if-it-is-a-good-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/upthemaster/Daily-DSA/tree/master/3477-fruits-into-baskets-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/upthemaster/Daily-DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/upthemaster/Daily-DSA/tree/master/0287-find-the-duplicate-number) |
 | [3477-fruits-into-baskets-ii](https://github.com/upthemaster/Daily-DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/upthemaster/Daily-DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/upthemaster/Daily-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/upthemaster/Daily-DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/upthemaster/Daily-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/upthemaster/Daily-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/upthemaster/Daily-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0844-backspace-string-compare](https://github.com/upthemaster/Daily-DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/upthemaster/Daily-DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
