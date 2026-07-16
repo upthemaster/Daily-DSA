@@ -5,7 +5,7 @@ class Solution { // Approach : S & F Pointer using one-Traversal    Time : O(n) 
         }
 
         if(head.next == null){
-            return head;
+            return head; // what if ll have only one node, then return that node
         }
 
         ListNode slow = head;
