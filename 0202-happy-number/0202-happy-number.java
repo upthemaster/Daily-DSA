@@ -1,41 +1,28 @@
 class Solution {
-
-    // Returns the sum of squares of digits
-    private int fun(int n) {
-
+    // Approach : S & F Pointer     Time : O(log n)     Space : O(1)
+    private int findSum(int n) {
         int sum = 0;
-
-        while (n > 0) {
-            int digit = n % 10;
-            sum += digit * digit;
+        while(n > 0) {
+            int dig  = n % 10;
             n /= 10;
+            sum += dig * dig;
         }
-
         return sum;
     }
 
     public boolean isHappy(int n) {
-
         int slow = n;
         int fast = n;
 
-        while (true) {
+        while(true) {
+            slow = findSum(slow);
+            fast = findSum(findSum(fast));
 
-            // Slow moves one step
-            slow = fun(slow);
-
-            // Fast moves two steps
-            fast = fun(fun(fast));
-
-            // Happy number found
-            if (fast == 1) {
+            if(fast == 1)
                 return true;
-            }
 
-            // Cycle detected (not happy)
-            if (slow == fast) {
+            if(slow == fast)
                 return false;
-            }
         }
     }
 }
