@@ -1,24 +1,20 @@
-class Solution { // Approach : Iterative Time : O(n)
+class Solution { // slow & fast pointer Time : O(n)
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        int len = 0;
-        ListNode temp = head;
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
 
-        while(temp != null) {
-            len++;
-            temp = temp.next;
+        ListNode slow = dummy;
+        ListNode fast = dummy;
+
+        for(int i = 0; i <=n; i++) {
+            fast = fast.next;
         }
 
-        if(len == n) {
-            return head.next;
+        while(fast != null) {
+            slow = slow.next;
+            fast = fast.next;
         }
-
-        temp = head;
-        
-        for(int i = 1; i < len - n; i++) {
-            temp = temp.next;
-        }
-        
-        temp.next = temp.next.next;
-        return head;
+        slow.next = slow.next.next;
+        return dummy.next;
     }
 }
