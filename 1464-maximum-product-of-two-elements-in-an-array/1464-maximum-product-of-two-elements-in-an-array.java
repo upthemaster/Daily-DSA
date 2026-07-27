@@ -1,10 +1,18 @@
-class Solution {
+class Solution { // two pointer
     public int maxProduct(int[] nums) {
-        Arrays.sort(nums);
-        int n = nums.length;
-        int first = nums[n - 1];
-        int second = nums[n - 2];
+        int i = 0;
+        int j = 0;
 
-        return (first - 1) * (second - 1);
+        for(int num: nums) {
+            if(num > i) {
+                j = i;
+                i = num;
+            }
+             else if(num > j) {
+                j = num;
+             }
+        }
+
+        return (i - 1) * (j - 1);
     }
 }
