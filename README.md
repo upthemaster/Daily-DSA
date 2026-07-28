@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/upthemaster/Daily-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/upthemaster/Daily-DSA/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/upthemaster/Daily-DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/upthemaster/Daily-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/upthemaster/Daily-DSA/tree/master/0844-backspace-string-compare) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/upthemaster/Daily-DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/upthemaster/Daily-DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/upthemaster/Daily-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/upthemaster/Daily-DSA/tree/master/0503-next-greater-element-ii) |
