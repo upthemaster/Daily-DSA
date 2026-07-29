@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/upthemaster/Daily-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/upthemaster/Daily-DSA/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/upthemaster/Daily-DSA/tree/master/0904-fruit-into-baskets) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/upthemaster/Daily-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/upthemaster/Daily-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/upthemaster/Daily-DSA/tree/master/0844-backspace-string-compare) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/upthemaster/Daily-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/upthemaster/Daily-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/upthemaster/Daily-DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/upthemaster/Daily-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1250-check-if-it-is-a-good-array](https://github.com/upthemaster/Daily-DSA/tree/master/1250-check-if-it-is-a-good-array) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/upthemaster/Daily-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/upthemaster/Daily-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -156,10 +159,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/upthemaster/Daily-DSA/tree/master/0912-sort-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/upthemaster/Daily-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/upthemaster/Daily-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/upthemaster/Daily-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/upthemaster/Daily-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/upthemaster/Daily-DSA/tree/master/0503-next-greater-element-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/upthemaster/Daily-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
