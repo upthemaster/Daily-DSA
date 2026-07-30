@@ -33,6 +33,6 @@ class MyQueue {
     }
     
     public boolean empty() {
-        return s1.empty();
+        return s1.isEmpty();
     }
 }
