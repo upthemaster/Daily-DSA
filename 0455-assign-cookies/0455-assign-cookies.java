@@ -1,5 +1,5 @@
 import java.util.*;
-//O(nlogn) Greedy + Sorting
+// Greedy + Sorting   Time -> O(nlogn) 
 class Solution {
     public int findContentChildren(int[] g, int[] s) {
         
