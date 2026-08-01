@@ -8,7 +8,7 @@ class Solution {
             freq[ch - 'a']++;
         }
 
-        Arrays.sort(freq);
+        Arrays.sort(freq);// after sorting, the freq stored in desc order
         int push = 0;
         int index = 0;
 
