@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/upthemaster/Daily-DSA/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/upthemaster/Daily-DSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/upthemaster/Daily-DSA/tree/master/0076-minimum-window-substring) |
+| [0415-add-strings](https://github.com/upthemaster/Daily-DSA/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/upthemaster/Daily-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/upthemaster/Daily-DSA/tree/master/0844-backspace-string-compare) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/upthemaster/Daily-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/upthemaster/Daily-DSA/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/upthemaster/Daily-DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/upthemaster/Daily-DSA/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/upthemaster/Daily-DSA/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/upthemaster/Daily-DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/upthemaster/Daily-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/upthemaster/Daily-DSA/tree/master/0877-stone-game) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/upthemaster/Daily-DSA/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/upthemaster/Daily-DSA/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/upthemaster/Daily-DSA/tree/master/0844-backspace-string-compare) |
 | [3477-fruits-into-baskets-ii](https://github.com/upthemaster/Daily-DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
