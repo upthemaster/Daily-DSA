@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/upthemaster/Daily-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/upthemaster/Daily-DSA/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/upthemaster/Daily-DSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/upthemaster/Daily-DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/upthemaster/Daily-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/upthemaster/Daily-DSA/tree/master/0844-backspace-string-compare) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/upthemaster/Daily-DSA/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/upthemaster/Daily-DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/upthemaster/Daily-DSA/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/upthemaster/Daily-DSA/tree/master/0486-predict-the-winner) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/upthemaster/Daily-DSA/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/upthemaster/Daily-DSA/tree/master/0844-backspace-string-compare) |
 | [3477-fruits-into-baskets-ii](https://github.com/upthemaster/Daily-DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/upthemaster/Daily-DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/upthemaster/Daily-DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/upthemaster/Daily-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/upthemaster/Daily-DSA/tree/master/0287-find-the-duplicate-number) |
