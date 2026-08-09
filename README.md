@@ -272,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/upthemaster/Daily-DSA/tree/master/1140-stone-game-ii) |
+## Database
+|  |
+| ------- |
+| [0610-triangle-judgement](https://github.com/upthemaster/Daily-DSA/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
