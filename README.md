@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/upthemaster/Daily-DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/upthemaster/Daily-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/upthemaster/Daily-DSA/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/upthemaster/Daily-DSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/upthemaster/Daily-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/upthemaster/Daily-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/upthemaster/Daily-DSA/tree/master/0287-find-the-duplicate-number) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/upthemaster/Daily-DSA/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/upthemaster/Daily-DSA/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/upthemaster/Daily-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/upthemaster/Daily-DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/upthemaster/Daily-DSA/tree/master/0877-stone-game) |
