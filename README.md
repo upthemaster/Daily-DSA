@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/upthemaster/Daily-DSA/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/upthemaster/Daily-DSA/tree/master/0912-sort-an-array) |
 | [1140-stone-game-ii](https://github.com/upthemaster/Daily-DSA/tree/master/1140-stone-game-ii) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/upthemaster/Daily-DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1250-check-if-it-is-a-good-array](https://github.com/upthemaster/Daily-DSA/tree/master/1250-check-if-it-is-a-good-array) |
 | [1386-cinema-seat-allocation](https://github.com/upthemaster/Daily-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/upthemaster/Daily-DSA/tree/master/1406-stone-game-iii) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/upthemaster/Daily-DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/upthemaster/Daily-DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/upthemaster/Daily-DSA/tree/master/1140-stone-game-ii) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/upthemaster/Daily-DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1406-stone-game-iii](https://github.com/upthemaster/Daily-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/upthemaster/Daily-DSA/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/upthemaster/Daily-DSA/tree/master/1872-stone-game-viii) |
