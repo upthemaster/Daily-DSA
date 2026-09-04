@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/upthemaster/Daily-DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/upthemaster/Daily-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/upthemaster/Daily-DSA/tree/master/1710-maximum-units-on-a-truck) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/upthemaster/Daily-DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1872-stone-game-viii](https://github.com/upthemaster/Daily-DSA/tree/master/1872-stone-game-viii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/upthemaster/Daily-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/upthemaster/Daily-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/upthemaster/Daily-DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1406-stone-game-iii](https://github.com/upthemaster/Daily-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/upthemaster/Daily-DSA/tree/master/1510-stone-game-iv) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/upthemaster/Daily-DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1872-stone-game-viii](https://github.com/upthemaster/Daily-DSA/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
