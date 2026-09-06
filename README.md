@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/upthemaster/Daily-DSA/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/upthemaster/Daily-DSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/upthemaster/Daily-DSA/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/upthemaster/Daily-DSA/tree/master/0115-distinct-subsequences) |
 | [0415-add-strings](https://github.com/upthemaster/Daily-DSA/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/upthemaster/Daily-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/upthemaster/Daily-DSA/tree/master/0844-backspace-string-compare) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/upthemaster/Daily-DSA/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/upthemaster/Daily-DSA/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/upthemaster/Daily-DSA/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/upthemaster/Daily-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/upthemaster/Daily-DSA/tree/master/0486-predict-the-winner) |
