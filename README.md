@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/upthemaster/Daily-DSA/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/upthemaster/Daily-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/upthemaster/Daily-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/upthemaster/Daily-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/upthemaster/Daily-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/upthemaster/Daily-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/upthemaster/Daily-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/upthemaster/Daily-DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/upthemaster/Daily-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/upthemaster/Daily-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/upthemaster/Daily-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/upthemaster/Daily-DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Stack
 |  |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/upthemaster/Daily-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1710-maximum-units-on-a-truck](https://github.com/upthemaster/Daily-DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/upthemaster/Daily-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/upthemaster/Daily-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/upthemaster/Daily-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/upthemaster/Daily-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/upthemaster/Daily-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/upthemaster/Daily-DSA/tree/master/1510-stone-game-iv) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/upthemaster/Daily-DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1872-stone-game-viii](https://github.com/upthemaster/Daily-DSA/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/upthemaster/Daily-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Game Theory
 |  |
 | ------- |
