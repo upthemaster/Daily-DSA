@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/upthemaster/Daily-DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/upthemaster/Daily-DSA/tree/master/1140-stone-game-ii) |
 | [1250-check-if-it-is-a-good-array](https://github.com/upthemaster/Daily-DSA/tree/master/1250-check-if-it-is-a-good-array) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/upthemaster/Daily-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/upthemaster/Daily-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/upthemaster/Daily-DSA/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/upthemaster/Daily-DSA/tree/master/1872-stone-game-viii) |
@@ -400,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/upthemaster/Daily-DSA/tree/master/0543-diameter-of-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/upthemaster/Daily-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
