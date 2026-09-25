@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/upthemaster/Daily-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/upthemaster/Daily-DSA/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/upthemaster/Daily-DSA/tree/master/0904-fruit-into-baskets) |
+| [1096-brace-expansion-ii](https://github.com/upthemaster/Daily-DSA/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/upthemaster/Daily-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/upthemaster/Daily-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/upthemaster/Daily-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/upthemaster/Daily-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/upthemaster/Daily-DSA/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/upthemaster/Daily-DSA/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/upthemaster/Daily-DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/upthemaster/Daily-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/upthemaster/Daily-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/upthemaster/Daily-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/upthemaster/Daily-DSA/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/upthemaster/Daily-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/upthemaster/Daily-DSA/tree/master/0912-sort-an-array) |
+| [1096-brace-expansion-ii](https://github.com/upthemaster/Daily-DSA/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/upthemaster/Daily-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/upthemaster/Daily-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1710-maximum-units-on-a-truck](https://github.com/upthemaster/Daily-DSA/tree/master/1710-maximum-units-on-a-truck) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/upthemaster/Daily-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/upthemaster/Daily-DSA/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/upthemaster/Daily-DSA/tree/master/0844-backspace-string-compare) |
+| [1096-brace-expansion-ii](https://github.com/upthemaster/Daily-DSA/tree/master/1096-brace-expansion-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/upthemaster/Daily-DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [1096-brace-expansion-ii](https://github.com/upthemaster/Daily-DSA/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/upthemaster/Daily-DSA/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -420,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/upthemaster/Daily-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/upthemaster/Daily-DSA/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
