@@ -1,24 +1,20 @@
-import java.util.*;
-
-class Solution {
+class Solution { // Couting Pattern
     public String removeOuterParentheses(String s) {
         StringBuilder ans = new StringBuilder();
-        Stack<Character> st = new Stack<>();
+        int depth = 0;
 
         for(char ch : s.toCharArray()) {
             if(ch == '(') {
-                if(!st.isEmpty()) {
+                if (depth > 0) {
                     ans.append(ch);
                 }
-                st.push(ch);
-            }
-            else {
-                st.pop();
-
-                if(!st.isEmpty()) {
+                depth++;
+            } else {
+                depth--;
+                if(depth > 0) {
                     ans.append(ch);
                 }
-            }
+            }   
         }
         return ans.toString();
     }
